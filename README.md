@@ -1,1 +1,1 @@
-# AppointmentApp
+# admin is username and password. You will have to set the JDBC for your own DB
